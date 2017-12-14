@@ -14,7 +14,7 @@
 		<div id="contact_form">
 			<form action="torf/loader/AddContact/add?amouser=torf993@gmail.com&amohash=88db9e2142ceabfb5d7b91ca217d4f63" method="post">
 				<div class="field">
-					<label for="contact_name">Имя</label><input id="contact_name" type="text" name="name">
+					<label for="contact_name">Имя1</label><input id="contact_name" type="text" name="name">
 				</div>
 				<div class="field">
 					<label for="contact_company">Компания</label><input id="contact_company" type="text" name="company">
